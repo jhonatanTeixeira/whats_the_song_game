@@ -1,0 +1,8 @@
+build
+dist
+songs
+*.mp4
+*.zip
+*.spec
+*.exe
+.idea
